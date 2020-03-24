@@ -1,0 +1,45 @@
+For tumour type-specific analyses, only use patient cohorts containing at least 15 unique donors. 	
+The following is a list of cohorts that meet this criterion.	
+	
+histology_abbreviation	donor_count
+Liver-HCC	326
+Panc-AdenoCA	244
+Prost-AdenoCA	221
+Breast-AdenoCA	201
+Kidney-RCC	169
+CNS-Medullo	154
+Ovary-AdenoCA	118
+Skin-Melanoma	108
+Lymph-BNHL	106
+Lymph-CLL	100
+Eso-AdenoCA	99
+CNS-PiloAstro	96
+Panc-Endocrine	86
+Stomach-AdenoCA	81
+ColoRect-AdenoCA	62
+Head-SCC	57
+Myeloid-AML	52
+Uterus-AdenoCA	51
+Thy-AdenoCA	50
+Kidney-ChRCC	49
+Lung-SCC	48
+Bone-Osteosarc	47
+Lung-AdenoCA	42
+CNS-GBM	41
+Biliary-AdenoCA	35
+Bone-Leiomyo	34
+Myeloid-MPN	29
+Bladder-TCC	23
+CNS-Oligo	19
+SoftTissue-Liposarc	19
+Cervix-SCC	18
+Bone-Benign	18
+Bone-Epith	15
+SoftTissue-Leiomyo	15
+DO NOT USE COHORTS BELOW THIS LINE	
+Breast-LobularCA	13
+Breast-DCIS	3
+Myeloid-MDS	2
+Cervix-AdenoCA	2
+	
+Sum	2853
